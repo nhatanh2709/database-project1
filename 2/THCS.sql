@@ -1,3 +1,4 @@
+use truonghoc;
 INSERT INTO DSTRUONG VALUE(N'79000707',N'Phổ thông Năng khiếu thể thao Olympic',N'Sở Giáo dục và Đào tạo Hồ Chí Minh',NULL,N'COLAP',N'NKTDTT',N'THCS',N'Đại học Thể dục thể thao TP. Hồ Chí Minh NKTDTT');
 INSERT INTO DSTRUONG VALUE(N'79000767',N'Tiểu học THCS và THPT Quốc Văn Sài Gòn',N'Sở Giáo dục và Đào tạo Hồ Chí Minh',NULL,N'TTHUC',N'PTHONG',N'THCS',N'300 Hòa Bình');
 INSERT INTO DSTRUONG VALUE(N'79000774',N'TH - THCS - THPT Chu Văn An',N'Sở Giáo dục và Đào tạo Hồ Chí Minh',NULL,N'TTHUC',N'PTHONG',N'THCS',N'Số 7 Đường Số 1 Khu Phố 1');
