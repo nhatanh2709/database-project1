@@ -1,3 +1,4 @@
+use truonghoc;
 INSERT INTO BAC VALUE(N'GDTX',N'Giáo dục thường xuyên');
 INSERT INTO BAC VALUE(N'CBMN',N'Mầm non');
 INSERT INTO BAC VALUE(N'CBTH',N'Tiểu học');
